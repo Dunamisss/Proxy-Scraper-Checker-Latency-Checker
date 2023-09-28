@@ -1,4 +1,5 @@
 Proxy-Scraper-Checker
+
 Proxy-Scraper-Checker is a Python script designed for proxy management, checking, and rotation. This tool provides a comprehensive solution for users requiring reliable proxies for web scraping, data mining, or anonymity purposes. The script incorporates features such as user-agent rotation, asynchronous proxy checking, and proxy rotation to ensure a seamless and efficient experience.
 
 Features
@@ -53,14 +54,10 @@ Configuration
 Adjust the following settings in the script or through environment variables:
 
 proxy_urls.txt: Specify proxy sources for scraping.
+
 user_agents.txt: Add user agents for rotation.
+
 initial_thread_workers and max_thread_workers: Configure the number of thread workers for proxy checking.
-out_file: Set the filename for saving selected proxies.
-Notes
-Respect the terms of service of websites when using proxies for scraping.
-Ensure compliance with legal and ethical standards in proxy usage.
-Regularly update user agents and proxy sources for optimal performance.
-Contributors
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+
 
