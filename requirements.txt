@@ -14,6 +14,6 @@ functools32==3.2.3.post2
 colorama==0.4.4
 pyfiglet==0.8.post1
 termcolor==1.1.0
-aiohttp==3.7.4.post0
+aiohttp==3.8.5
 prettytable==2.2.0
 collections-extended==2.0.1
