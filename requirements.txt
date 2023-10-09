@@ -2,7 +2,7 @@ typing==3.10.0.2
 asyncio==3.4.3
 os==0.1.0
 concurrent.futures==3.3.0
-requests==2.26.0
+requests==2.31.0
 re==2021.8.28
 random==0.2.1
 time==0.2
