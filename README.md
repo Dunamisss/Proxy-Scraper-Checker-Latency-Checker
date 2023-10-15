@@ -1,4 +1,4 @@
-# Proxy Checker and Latency Analyzer
+# Proxy Fetcher Checker and Latency Analyzer
 
 Welcome to the Proxy Checker and Latency Analyzer! This Python script allows you to efficiently check the working status and latency of proxy servers. It categorizes proxies based on their latency, provides information about their origin, and supports easy customization.
 
