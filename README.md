@@ -26,7 +26,7 @@ Welcome to the Proxy Checker and Latency Analyzer! This Python script allows you
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Dunamisss/proxy-checker.git
+    git clone https://github.com/Dunamisss/Proxy-Fetcher-Checker-and-Latency-Analyzer.git
     cd proxy-checker
     ```
 
