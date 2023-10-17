@@ -1,6 +1,6 @@
 # Proxy Scraper, Checker, Latency Checker.
 
-A Python script for collecting proxies from various sources, checks proxies and checks the latency of the proxies, shows them in a table with proxy information and saves them in there respective text file, by ip:port. The script is long and by far from perfect.
+A Python script for collecting proxies from various sources, checks proxies and checks the latency of the proxies, shows them in a table format with proxy information and saves them in there respective text files. 
 
 ![Proxy Checker and Latency Analyzer](proxy-checker.png)
 
