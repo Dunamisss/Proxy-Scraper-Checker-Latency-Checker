@@ -1,6 +1,6 @@
-# Proxy Fetcher Checker and Latency Analyzer
+# Proxy Scraper, Checker, Latency Checker.
 
-Welcome to the Proxy Checker and Latency Analyzer! This Python script allows you to efficiently check the working status and latency of proxy servers. It categorizes proxies based on their latency, provides information about their origin, and supports easy customization.
+A Python script for collecting proxies from various sources, checks proxies and checks the latency of the proxies, shows them in a table with proxy information and saves them in there respective text file, by ip:port. The script is long and by far from perfect.
 
 ![Proxy Checker and Latency Analyzer](proxy-checker.png)
 
@@ -14,7 +14,11 @@ Welcome to the Proxy Checker and Latency Analyzer! This Python script allows you
 
 - **User Agent Rotation:** To mimic real user behavior, the script randomly selects User Agents from a provided list during proxy checking.
 
+- **Logging:** Creates Proxy_Checker.log, customizable, which is placed in the root directory for easy debugging. 
+
 - **Customization:** Users can easily customize the sources of proxy lists, User Agents, and other parameters.
+
+- **Proxy Rotation** 
 
 ## Prerequisites
 
@@ -44,7 +48,7 @@ Welcome to the Proxy Checker and Latency Analyzer! This Python script allows you
     python main.py
     ```
 
-2. Follow the interactive prompts to choose the proxy type, specify the number of proxies to check, and view the results.
+2. Follow the interactive prompts, what type of proxies, How many proxies.
 
 3. Save selected proxies to a file for later use.
 
