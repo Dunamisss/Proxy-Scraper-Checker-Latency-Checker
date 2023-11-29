@@ -1,15 +1,11 @@
 http:
-https://github.com/Anonym0usWork1221/Free-Proxies/blob/main/proxy_files/http_proxies.txt
 https://api.proxyscrape.com/v2/?request=getproxies&protocol=http
 
 https:
-https://github.com/Anonym0usWork1221/Free-Proxies/blob/main/proxy_files/https_proxies.txt
 https://api.proxyscrape.com/v2/?request=getproxies&protocol=https
 
 socks4:
-https://github.com/Anonym0usWork1221/Free-Proxies/blob/main/proxy_files/socks4_proxies.txt
 https://api.proxyscrape.com/v2/?request=getproxies&protocol=socks4
 
 socks5:
-https://github.com/Anonym0usWork1221/Free-Proxies/blob/main/proxy_files/socks5_proxies.txt
 https://api.proxyscrape.com/v2/?request=getproxies&protocol=socks5
